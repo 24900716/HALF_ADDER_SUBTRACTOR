@@ -63,3 +63,4 @@ Figure -02 HALF Subtractor
 ![WhatsApp Image 2024-12-12 at 10 22 51 AM(1)](https://github.com/user-attachments/assets/3286c7d3-8fc5-487e-9bc1-e4d303ec65b4)
 
 ### RESULT:
+ Thus,to design a half adder and half subtractor circuit is verified its truth table in Quartus using Verilog programming
